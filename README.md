@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias / This project was de
 
 - Abra o projeto no Visual Studio Code / Open the project with Visual Studio Code
 
-- Crie um [Dev Container](https://code.visualstudio.com/docs/devcontainers/tutorial) Node.js & PostgreSQL 
+- Crie um [Dev Container](https://code.visualstudio.com/docs/devcontainers/tutorial) Node.js & PostgreSQL / Create a [Dev Container](https://code.visualstudio.com/docs/devcontainers/tutorial) Node.js & PostgreSQL
 
 ![](./assets/dev-container-step-1.png)
 
