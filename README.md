@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias / This project was de
 ![](./assets/dev-container-step-3.png)
 
 - Instale as dependências com `npm i` / Install the dependencies with `npm i`
-- Inicie o servidor com `npx expo start --clear` / Start the server with `npx expo start --clear`
+- Inicie o servidor com `npm run start:dev` / Start the server with `npm run start:dev`
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
