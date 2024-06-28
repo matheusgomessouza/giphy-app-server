@@ -21,11 +21,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias / This project was de
 
 - Crie um [Dev Container](https://code.visualstudio.com/docs/devcontainers/tutorial) Node.js & PostgreSQL 
 
-![](./assets/dev-container-step-1.png.png)
+![](./assets/dev-container-step-1.png)
 
-![](./assets/dev-container-step-2.png.png)
+![](./assets/dev-container-step-2.png)
 
-![](./assets/dev-container-step-3.png.png)
+![](./assets/dev-container-step-3.png)
 
 - Instale as dependências com `npm i` / Install the dependencies with `npm i`
 - Inicie o servidor com `npx expo start --clear` / Start the server with `npx expo start --clear`
